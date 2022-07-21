@@ -1,0 +1,11 @@
+.post{
+    width: 520px;
+    background-color: aquamarine;
+    border: solid #a1a1a1 1px;
+    border-radius: 6px;
+}
+.postHeader{
+    border-bottom: solid #a1a1a1 1px;
+    border-radius: 6px;
+    padding: 5px;
+}
